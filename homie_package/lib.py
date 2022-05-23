@@ -1,5 +1,4 @@
-def try_me():
-    lol = input('Write your best "HOMIE"')
+def try_me(lol):
     return f"""
 
 ____________________$___$
